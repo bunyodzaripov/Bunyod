@@ -60,15 +60,15 @@
     <tr>
       <!-- GitHub Stats -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" width="400" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" width="100%" />
       </td>
       <!-- Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" width="400" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" width="100%" />
       </td>
       <!-- GitHub Streak -->
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" width="400" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
