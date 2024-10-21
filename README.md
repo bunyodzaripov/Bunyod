@@ -2,7 +2,8 @@
   <img src="https://github.com/bunyodzaripov/bunyodzaripov/blob/main/source.gif?raw=true" width="150" height="150" alt="Profile GIF">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bunyodzaripov&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![Bunyod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunyodzaripov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Bunyod</h1>
