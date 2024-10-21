@@ -2,6 +2,9 @@
   <img src="https://github.com/bunyodzaripov/bunyodzaripov/blob/main/source.gif?raw=true" width="150" height="150" alt="Profile GIF">
 </p>
 
+![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&theme=dark)
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Bunyod</h1>
 <h3 align="center" style="color:#DCDCDC;">A passionate frontend developer from Uzbekistan</h3>
 
