@@ -3,6 +3,14 @@
         <img src="https://github.com/bunyodzaripov/Bunyod/blob/main/cat.gif?raw=true" width="120" height="120" alt="Description of the image">
     </a>
 </p>
+<div align="center">
+    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <h1 align="center">Hi 👋, I'm Bunyod</h1>
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
