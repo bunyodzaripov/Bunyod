@@ -53,6 +53,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bunyodzaripov&label=Profile%20views&color=grey&style=flat" alt="Profile views" />
 </p>
+
+---
+
 [![Bunyod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunyodzaripov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Statistikalarni flexbox bilan to'g'ri joylash -->
