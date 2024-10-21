@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bunyodzaripov/bunyodzaripov/blob/main/source.gif?raw=true" width="120" height="120" alt="Profile GIF">
+  <img src="https://github.com/bunyodzaripov/bunyodzaripov/blob/main/source.gif?raw=true" width="150" height="150" alt="Profile GIF">
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Bunyod</h1>
@@ -62,9 +62,6 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake:
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
