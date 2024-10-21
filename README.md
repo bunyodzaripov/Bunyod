@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Bunyod</h1>
-<h3 align="center" style="color:#DCDCDC;">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center" style="color:#DCDCDC;">A passionate Frontend developer from Uzbekistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bunyodzaripov&label=Profile%20views&color=grey&style=flat" alt="Profile views" />
