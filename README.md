@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
-        <img src="https://github.com/bunyodzaripov/Bunyod/blob/main/cat.gif?raw=true" width="150" height="120" alt="Description of the image">
+<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/leuNkvf9pE6loEnjnb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/animals-night-sleep-leuNkvf9pE6loEnjnb">via GIPHY</a></p>
     </a>
 </p>
 
