@@ -54,25 +54,19 @@
 ### 📊 GitHub Stats:
 [![Bunyod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunyodzaripov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- 3 ta statistika yonma-yon bir xil o'lchamda bo'lishi uchun table'dan foydalanamiz -->
-<p align="center">
-  <table>
-    <tr>
-      <!-- GitHub Stats -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" width="100%" />
-      </td>
-      <!-- Top Languages -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" width="100%" />
-      </td>
-      <!-- GitHub Streak -->
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<!-- Statistikalarni flexbox bilan to'g'ri joylash -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" style="width: 33%;" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" style="width: 33%;" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" style="width: 33%;" />
+
+</div>
 
 
 
