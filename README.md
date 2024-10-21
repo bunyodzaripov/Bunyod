@@ -69,7 +69,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
-
----
-
-<p align="center" style="color:#00FFFF;">Let's connect on <a href="https://www.linkedin.com/in/bunyodzaripov" target="_blank" rel="noopener noreferrer" style="color:#00FFFF;">LinkedIn</a> | <a href="mailto:bunyodzaripov@gmail.com" target="_blank" rel="noopener noreferrer" style="color:#00FFFF;">Email me</a></p>
