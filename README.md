@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/bunyodzaripov/Bunyod/blob/main/cat.gif?raw=true" width="120" height="120" alt="Description of the image">
+<img src="https://github.com/bunyodzaripov/bunyodzaripov/blob/main/source.gif?raw=true" width="120" height="120" alt="Description of the image">
 </p>
 
 
