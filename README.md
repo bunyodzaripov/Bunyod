@@ -55,14 +55,20 @@
 [![Bunyod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunyodzaripov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" />
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark)](https://git.io/streak-stats)
 
 ---
 <div align="center">
