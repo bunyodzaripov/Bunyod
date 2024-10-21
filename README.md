@@ -54,20 +54,15 @@
   <img src="https://komarev.com/ghpvc/?username=bunyodzaripov&label=Profile%20views&color=grey&style=flat" alt="Profile views" />
 </p>
 
----
 
 [![Bunyod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunyodzaripov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Statistikalarni flexbox bilan to'g'ri joylash -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" style="width: 33%;" />
 
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" style="width: 33%;" />
 
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" style="width: 33%;" />
 
 </div>
